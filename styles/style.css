@@ -1,0 +1,8 @@
+/*------------------------header styles--------------------*/
+.bg-image-for-header{
+    background-image: url(../images/Rectangle\ 4.png);
+    background-repeat: no-repeat;
+    background-size:contain;
+    height:550px;
+    width:100%;
+}
